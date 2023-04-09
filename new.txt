@@ -4,3 +4,5 @@ TODO List :
 1. Eat
 2. Watch lectures
 3. Sleep
+4. Add some more todos
+5. Learn Git
